@@ -1,6 +1,8 @@
-"FIO" {
+{
+    "FIO" :[
     "name": "IVAN"
     "Last_name": "IVANOV"
     " AGE": "30"
     " PETS": "missing"
+    ]
 }
