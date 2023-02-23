@@ -1,5 +1,8 @@
-"I_like" : {
-           " cold_ice_cream" :"1"
-           " HOT_tea" :"2"
-           " the_unforgettaable_past" :"3"
-           
+{
+    "I_like" : [
+              {" cold_ice_cream" :"1",
+              " HOT_tea" :"2",
+              " the_unforgettaable_past" :"3"
+              }
+              ]
+}
