@@ -1,10 +1,11 @@
-
-"consists_is" {
-                "1":"Summery"
-               "2":" Description"
-               "3": "Fix_versions"
-               "4": " Priority"
-               "5": "Labels"
-               "6": "Attachment"
-               "7":"Assignee"
+{
+    "consists_is" : [
+                "Summery",
+                "Description",
+                "Fix_versions",
+                "Priority",
+                "Labels",
+                "Attachment",
+                "Assignee"
+                ]
 }
